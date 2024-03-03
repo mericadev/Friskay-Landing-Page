@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 - Git URL: (https://github.com/mericadev/Frskay-landing-page.git)
-- Live Site URL: (https://mericadev.github.io/Frontend-Mentor-NFT-preview-card-component/)
+- Live Site URL: ( https://mericadev.github.io/Friskay-landing-page/)
 
 ## My process
 
@@ -70,8 +70,6 @@ nav ul {
 I aim to continue practicing my responsive design skills as well as mastering how to position elements with values like 'top' 'left' 'right' 'bottom'.
 
 ## Author
-
-- Frontend Mentor - [@mericadev](https://www.frontendmentor.io/profile/mericadev)
-- Twitter - [@merica_dev](https://www.twitter.com/merica_dev)
+- Linkedin - (https://www.linkedin.com/in/merica-maziya/)
 
 
