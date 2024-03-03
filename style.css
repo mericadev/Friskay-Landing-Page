@@ -390,7 +390,6 @@ footer {
   .flex-container {
     display: flex;
     justify-content: center;
-    border: 2px solid;
     width: 50vw;
     margin: 0 auto;
   }
