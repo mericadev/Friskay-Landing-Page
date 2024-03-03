@@ -22,7 +22,7 @@ Users should be able to:
 
 
 ### Links
-
+- Git URL: (https://github.com/mericadev/Frskay-landing-page.git)
 - Live Site URL: (https://mericadev.github.io/Frontend-Mentor-NFT-preview-card-component/)
 
 ## My process
@@ -37,8 +37,7 @@ Users should be able to:
 
 
 ### What I learned
-I used z-index to overlay elemts on top of each other also used position types for positioning elements in relation to each other.
-
+I mastered the use of element positioning and used z-index to overlay elemts on top of each other.
 ```css
 nav ul {
     position: fixed;
